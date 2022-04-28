@@ -4,7 +4,11 @@ How to run:
 
 correr el makefile
 
-si no se ha creado el binario indexado y la tabla hash en una terminal ejecutar ./crearEstructuras
+
+si no se ha creado el binario indexado y la tabla hash, descargar el scv respectivo y colocarlo en la carpeta donde se encuentra 
+elcrearEstructuras.c luego en una terminal ejecutar ./crearEstructuras o descargar la siguente carpeta:
+https://drive.google.com/drive/folders/1HP169-GruDmifC3W3UYCcxlQtojngGKQ?usp=sharing
+y colocar ambos archivos en el directorio del programa(donde se encuentra p1-odProgram.c)
 
 en una terminar correr ./buscarTiempo
 abrir una segunda terminal
