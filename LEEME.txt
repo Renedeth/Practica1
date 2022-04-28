@@ -3,6 +3,9 @@ rbarrero-baaponter
 How to run:
 
 correr el makefile
+
+si no se ha creado el binario indexado y la tabla hash en una terminal ejecutar ./crearEstructuras
+
 en una terminar correr ./buscarTiempo
 abrir una segunda terminal
 en la segunda terminal correro ./p1-osProgram
