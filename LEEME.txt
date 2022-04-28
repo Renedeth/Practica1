@@ -1,0 +1,13 @@
+rbarrero-baaponter
+
+How to run:
+
+correr el makefile
+en una terminar correr ./buscarTiempo
+abrir una segunda terminal
+en la segunda terminal correro ./p1-osProgram
+
+ingresar los datos de busqueda deseados en las opciones  1, 2 y 3
+realizar la busqueda utilizando la opcion 4
+
+para salir de la busqueda utilize opcion 5
